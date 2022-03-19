@@ -1,4 +1,4 @@
-import Animales from "./animales.js"
+import Animales from "./Animales.js"
 
 // Clase hija
 class Serpiente extends Animales{
