@@ -16,4 +16,4 @@
   - Métodos de arrays.
   - Iteración de objetos.
 
-Para acceder una vista previa del proyecto, visitar el siguiente [enlace](git@github.com:ProgramRo/proyecto-animales.git)
+Para acceder una vista previa del proyecto, visitar el siguiente [enlace](https://programro.github.io/proyecto-animales/)
