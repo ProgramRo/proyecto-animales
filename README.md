@@ -1,8 +1,6 @@
 # proyecto-animales
 ## búsqueda de animales
 
-**Para la óptima visualización del proyecto con todas sus funcionalidades, se debe descargar y abrir el archivo index.html desde la extensión "Live Server" en VS Code.**
-
 1. Este proyecto fue realizado basándose en los lenguajes:
   - HTML.
   - CSS.
